@@ -16,3 +16,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# personal / docs
+Acceptance Letter.pdf
+Acceptance Letter.jpg
+Machine Learning Task List.pdf
