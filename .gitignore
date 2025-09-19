@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (don’t track raw datasets)
+data/
+*.csv
+*.xlsx
+*.zip
+*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
